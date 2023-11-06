@@ -35,17 +35,17 @@ In this repository, you'll find two main categories of writeups:
    - Description: We solved another machine from Hack The Box. The machine was retired, and its name was Devil. It was a Windows 7 machine. We solved this machine manually, without relying on 
                   automatic methods like Metasploit, which you might have seen in walkthroughs across the internet. We approached the solution differently, hoping that you found something unique in 
                   this walkthrough..
-   - Writeup: [A link to the writeup for this machine.](https://medium.com/@ennoukhbadr/hackthebox-devel-walkthrough-f3672f03cb62)
+   - Writeup: (https://medium.com/@ennoukhbadr/hackthebox-devel-walkthrough-f3672f03cb62)
 
 2. [Academy]
    - Difficulty: Easy
    - Description: We solved another machine from Hack The Box. The machine was retired, and its name was Academy. It was a Linux machine.
-   - Writeup: [[A link to the writeup for this machine.](https://medium.com/@ennoukhbadr/hackthebox-devel-walkthrough-f3672f03cb62)](https://medium.com/@ennoukhbadr/hack-the-box-academy-8afe6c1abb06)
+   - Writeup: (https://medium.com/@ennoukhbadr/hackthebox-devel-walkthrough-f3672f03cb62)](https://medium.com/@ennoukhbadr/hack-the-box-academy-8afe6c1abb06)
   
 3. [APT]
    - Difficulty: Insane
    - Description: We solved another machine from Hack The Box. The machine was retired, and its name was Academy. It was a Linux machine.
-   - Writeup:[ [[A link to the writeup for this machine.](https://medium.com/@ennoukhbadr/hackthebox-devel-walkthrough-f3672f03cb62)](https://medium.com/@ennoukhbadr/hack-the-box-academy-8afe6c1abb06)](https://medium.com/@ennoukhbadr/hack-the-box-apt-87c53c523706)
+   - Writeup:(https://medium.com/@ennoukhbadr/hackthebox-devel-walkthrough-f3672f03cb62)](https://medium.com/@ennoukhbadr/hack-the-box-academy-8afe6c1abb06)](https://medium.com/@ennoukhbadr/hack-the-box-apt-87c53c523706)
      
 ## Challenge Writeups
 
